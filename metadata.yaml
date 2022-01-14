@@ -1,5 +1,8 @@
 _repo: Histoire-du-Consulat-et-de-l-Empire-1920-faisant-suite-a-l-Histoire-de-la-Revolution-Francais__67136
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67136-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Thiers, Adolphe
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Adolphe_Thiers
     - https://fr.wikipedia.org/wiki/Adolphe_Thiers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67136#Histoire-du-Consulat-et-de-l-Empire-1920-faisant-suite-a-l-Histoire-de-la-Revolution-Francais_
 gutenberg_issued: '2022-01-10'
 identifiers:
   gutenberg: '67136'
